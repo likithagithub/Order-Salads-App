@@ -1,3 +1,7 @@
+This is a realtime salad food ordering React Js App using CRUD operations.You can select the salad which is automatically added to the cart. Then click on "your cart" button to view the total amount of your order. You can also add or delete salad items. Then place your order to get a pop-up window message saying Thank You.
+<img width="960" alt="Odersummaryimg" src="https://github.com/likithagithub/Order-Salads-App/assets/99140002/c5d0ba0e-eeb7-4df4-b1ea-9a3027386f24">
+<img width="960" alt="Odersummaryimg" src="https://github.com/likithagithub/Order-Salads-App/assets/99140002/bdd66529-a447-46b4-b372-7151710ab284">
+<img width="960" alt="Finalpage" src="https://github.com/likithagithub/Order-Salads-App/assets/99140002/5ad94993-674b-4ebb-a06f-8e5a82d9ff16">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
