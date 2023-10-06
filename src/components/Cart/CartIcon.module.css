@@ -1,0 +1,12 @@
+.cartIcon {
+    position: fixed;
+    top: 28px;
+    margin-left: -20px;
+}
+
+.cartIcon img {
+    width: 25px; 
+    height: 25px;
+    
+
+}
